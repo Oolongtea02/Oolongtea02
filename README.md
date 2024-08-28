@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel Zhang! I am a 4th year student studying Computer Science and Game Design. I am passionate about game design, indie games, and collaborating with other designers/programmers/artists.
+I'm Samuel Zhang! I am a recent graduate with a bachelor's degree in Computer Science and Game Design. I am passionate about game design, indie games, and collaborating with other designers/programmers/artists.
 
 - 🔭 I’m currently working on gaining experience and creating multiple games in Unity.
 - 🌱 I’m currently learning how to publish and make my projects stand out.
